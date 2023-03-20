@@ -30,15 +30,6 @@ Create metasploit payload easily using Paybag
     python paybag.py
 
 
-
-# What's New in v1.4?
-
-1) Bugs Fixed
-
-- There are some issues while installing Metasploit in Termux. This update will not install Metasploit in termux. Users need to install it manually.
-
-
-
 # Usage
 
 **1) Create a payload**
@@ -62,7 +53,7 @@ Create metasploit payload easily using Paybag
 
 -----------------------------------------------------------------------------------------------------
 
-### If you have any issue regarding this,report an issue [here]()
+### If you have any issue regarding this,report an issue [here](https://github.com/anya-hacker/PC_HACKING_By_Anya/issues)
 
 
 -----------------------------------------------------------------------------------------------------
