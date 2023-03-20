@@ -2,7 +2,7 @@
 
 Create metasploit payload easily using Paybag
 
-![Screenshot](https://user-images.githubusercontent.com/32305505/99352267-56d06400-28c8-11eb-8aa3-a7da8e85e337.jpg)
+![Screenshot]()
 
 
 # Installation
@@ -10,7 +10,7 @@ Create metasploit payload easily using Paybag
 ### For Linux users -
     sudo apt-get install python3 python3-pip net-tools
     
-    git clone https://github.com/Deadpool2000/Paybag.git
+    git clone 
     
     cd Paybag
     
@@ -21,7 +21,7 @@ Create metasploit payload easily using Paybag
 ### For Termux users -
     apt install python wget 
     
-    git clone https://github.com/Deadpool2000/Paybag.git
+    git clone 
     
     cd Paybag
     
@@ -62,7 +62,7 @@ Create metasploit payload easily using Paybag
 
 -----------------------------------------------------------------------------------------------------
 
-### If you have any issue regarding this,report an issue [here](https://github.com/Deadpool2000/Paybag/issues)
+### If you have any issue regarding this,report an issue [here]()
 
 
 -----------------------------------------------------------------------------------------------------
