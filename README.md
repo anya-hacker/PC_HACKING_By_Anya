@@ -10,7 +10,7 @@ Create metasploit payload easily using Paybag
 ### For Linux users -
     sudo apt-get install python3 python3-pip net-tools
     
-    git clone 
+    git clone https://github.com/anya-hacker/PC_HACKING_By_Anya.git
     
     cd Paybag
     
@@ -21,7 +21,7 @@ Create metasploit payload easily using Paybag
 ### For Termux users -
     apt install python wget 
     
-    git clone 
+    git clone https://github.com/anya-hacker/PC_HACKING_By_Anya.git
     
     cd Paybag
     
