@@ -2,7 +2,7 @@
 
 # Author - Anya-Hacker
 
-# github - https://github.com/Deadpool2000
+# github - https://github.com/anya-hacker
 
 import os
 import random
