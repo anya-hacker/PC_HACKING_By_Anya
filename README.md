@@ -12,22 +12,22 @@ Create metasploit payload easily using Paybag
     
     git clone https://github.com/anya-hacker/PC_HACKING_By_Anya.git
     
-    cd Paybag
+    cd AnyaPC_hacking
     
     sudo pip3 install -r requirements.txt
     
-    python3 paybag.py
+    python3 AnyaPC_hacking.py
     
 ### For Termux users -
     apt install python wget 
     
     git clone https://github.com/anya-hacker/PC_HACKING_By_Anya.git
     
-    cd Paybag
+    cd AnyaPC_hacking
     
     pip install -r requirements.txt
     
-    python paybag.py
+    python AnyaPC_hacking.py
 
 
 # Usage
